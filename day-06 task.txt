@@ -163,7 +163,6 @@ class UberPriceCalculator {
     }
   }
   
-  // Example usage:
   const calculator = new UberPriceCalculator();
   const distanceInKilometers = 6.0; // Distance in kilometers
   const timeInMinutes = 10; // Time in minutes
